@@ -2,4 +2,4 @@ title: Duck
 theme: 
 subdomain: duck-bread
 badge: show
-description: This is your site description which can be edited in the _sv_settings.txt file, another Small Victory.
+description: a radio show
