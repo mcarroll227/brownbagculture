@@ -1,5 +1,0 @@
-title: Duck
-theme: 
-subdomain: duck-bread
-badge: show
-description: a radio show
